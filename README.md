@@ -10,7 +10,7 @@ It doesn't mean that I had no idea about GitHub this whole time or that I stored
 To my shame, I must admit that I use Windows and One Drive. Look carefully at the last part.
 It doesn't require any configuration or command line typing. It works out of the box, altough it has no features useful for development.
 My point is, that code did not appeared out of the blue. It just have to deal with the fact that I am extremely lazy person.
-If you look even more carefully, then you can see that a lot of repositories are not finished. 
+If you look even more carefully, then you can see that some of repositories are not finished. 
 It would make more sense to copy the entire thing rather than a part of it.
 
 <!---
