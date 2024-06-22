@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silentstranger5
-- 👀 I’m interested in coding and learning
+- 👀 I’m interested in a job at the backend position
 - 🌱 I’m currently learning various fields of development, computer science, math and physics
 - 📫 How to reach me: n.smirnov1572@gmail.com
 - 😄 Pronouns: He/Him although I don't care
